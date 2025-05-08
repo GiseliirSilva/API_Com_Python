@@ -15,7 +15,7 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 
 Aqui estão algumas capturas de tela do aplicativo:
 
-<p align="center">
+<p>
     <img src="images/pag_inicial.png" alt="Página inicial" width="30%">
     <img src="images/pesquisa.png" alt="Resultados da busca" width="30%">
 </p>
