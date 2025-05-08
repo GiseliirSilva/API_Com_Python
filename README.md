@@ -11,8 +11,16 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 * Git (para controle de versão)
 * API Lyrics.ovh (para buscar letras de músicas)
 
-![Captura de tela da página inicial](images/pag_inicial.png)
-![Captura de tela da busca](images/pesquisa.png)
+## Capturas de Tela
+
+Aqui estão algumas capturas de tela do aplicativo:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="images/pag_inicial.png" alt="Captura de tela da página inicial" style="max-width: 45%; margin: 10px;">
+    <img src="images/pesquisa.png" alt="Captura de tela da busca" style="max-width: 45%; margin: 10px;">
+</div>
+
+*As capturas de tela mostram a página inicial e a página de resultados da busca.*
 
 # Letras de Músicas com Streamlit
 
