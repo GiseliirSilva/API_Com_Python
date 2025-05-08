@@ -15,10 +15,8 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 
 Aqui estão algumas capturas de tela do aplicativo:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="images/pag_inicial.png" alt="Captura de tela da página inicial" style="max-width: 45%; margin: 10px;">
-    <img src="images/pesquisa.png" alt="Captura de tela da busca" style="max-width: 45%; margin: 10px;">
-</div>
+<img src="imagens/LEIA-ME.md" alt="Captura de tela da página inicial" width="45%">
+<img src="imagens/pesquisa.png" alt="Captura de tela da busca" width="45%">
 
 *As capturas de tela mostram a página inicial e a página de resultados da busca.*
 
