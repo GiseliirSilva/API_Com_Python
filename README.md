@@ -16,7 +16,7 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 Aqui estão algumas capturas de tela do aplicativo:
 
 <p align="center">
-    <img src="images/pag_inicial.png" alt="Página inicial" height="400">
+    <img src="[images/pag_inicial.png" alt="Página inicial](https://github.com/GiseliirSilva/API_Com_Python/blob/master/images/pag_inicial.png)" height="400">
     <br>
     <img src="images/pesquisa.png" alt="Resultados da busca" height="400">
 </p>
