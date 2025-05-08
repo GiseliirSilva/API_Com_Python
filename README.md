@@ -15,7 +15,7 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 
 Aqui estão algumas capturas de tela do aplicativo:
 
-<img src="imagens/LEIA-ME.md" alt="Captura de tela da página inicial" width="45%">
+<img src="imagens/pag_inicial.png" alt="Captura de tela da página inicial" width="45%">
 <img src="imagens/pesquisa.png" alt="Captura de tela da busca" width="45%">
 
 *As capturas de tela mostram a página inicial e a página de resultados da busca.*
